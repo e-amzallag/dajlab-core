@@ -1,0 +1,8 @@
+{
+	"dajlab": {
+		"org.dajlab.gui.simple.SimpleModel": {
+			"simpleCheck": true,
+			"tabTitle": "A title"
+		}
+	}
+}
